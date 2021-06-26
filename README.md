@@ -13,14 +13,14 @@ Yield farming, also referred to as liquidity mining, is a way to generate reward
 - [BSC](#bsc)
 - [Polygon](#polygon)
 - [Avalanche](#avalanche)
-- [Portfolio Trackers](#trackers)
+- [Tools](#tools)
 
 <a name="bsc" />
 
 ## Binance Smart Chain (BSC)
 
 - [PancakeSwap](https://pancakeswap.finance)
-- [WorldSwap Brussels](https://brussels.worldswap.finance)
+- [WorldSwap Berlin](https://berlin.worldswap.finance)
 
 <a name="polygon" />
 
@@ -36,8 +36,8 @@ Yield farming, also referred to as liquidity mining, is a way to generate reward
 
 - [Pangolin](https://app.pangolin.exchange/#/pool)
 
-<a name="trackers" />
+<a name="tools" />
 
-## Portfolio Trackers
+## Tools
 
-- [ApeBoard](https://apeboard.finance)
+- [ApeBoard](https://apeboard.finance) - Portfolio Tracker
