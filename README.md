@@ -28,7 +28,7 @@ Yield farming, also referred to as liquidity mining, is a way to generate reward
 
 - [QuickSwap](https://quickswap.exchange/#/pool)
 - [MordorSwap](https://mordorswap.finance)
-- [WorldSwap Bali](https://bali.worldswap.finance)
+- [WorldSwap Hanoi](https://hanoi.worldswap.finance)
 
 <a name="avalanche" />
 
