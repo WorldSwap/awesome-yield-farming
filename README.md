@@ -20,7 +20,7 @@ Yield farming, also referred to as liquidity mining, is a way to generate reward
 ## Binance Smart Chain (BSC)
 
 - [PancakeSwap](https://pancakeswap.finance)
-- [WorldSwap Berlin](https://berlin.worldswap.finance)
+- [WorldSwap London](https://london.worldswap.finance)
 
 <a name="polygon" />
 
