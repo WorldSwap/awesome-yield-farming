@@ -41,3 +41,5 @@ Yield farming, also referred to as liquidity mining, is a way to generate reward
 ## Tools
 
 - [ApeBoard](https://apeboard.finance) - Portfolio Tracker
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
