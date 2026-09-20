@@ -41,3 +41,4 @@ Yield farming, also referred to as liquidity mining, is a way to generate reward
 ## Tools
 
 - [ApeBoard](https://apeboard.finance) - Portfolio Tracker
+- [QuantumPools](https://quantumpools.io) - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
