@@ -41,3 +41,4 @@ Yield farming, also referred to as liquidity mining, is a way to generate reward
 ## Tools
 
 - [ApeBoard](https://apeboard.finance) - Portfolio Tracker
+- [DefiLPKit](https://defilpkit.com) - Free read-only LP calculator: fee APR, IL-adjusted net yield and range testing for Uniswap v3 / PancakeSwap v3 / Aerodrome / Raydium CLMM
